@@ -10,3 +10,4 @@ print("拜拜")
 =======
 print("只是太年轻，快乐和伤心")
 >>>>>>> origin/master
+print("谁让你删的")
